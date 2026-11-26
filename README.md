@@ -1,0 +1,2 @@
+# AI_Agent_Skill_Standards
+AIエージェント向けの共通Skill設計標準と製品別の実装規約
